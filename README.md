@@ -1,3 +1,0 @@
-# bashid
-
-Learning git!!!
